@@ -1,3 +1,4 @@
+export * from './aittcoin';
 export * from './bitcoin';
 export * from './bitcoincash';
 export * from './bitcoincash';
