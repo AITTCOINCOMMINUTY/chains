@@ -3,10 +3,10 @@ import { common } from './base';
 
 export const testnet: TestNet = {
   ...common,
-  id: 'C5546570-CE22-49CD-9F03-F55285B1D659',
+  id: '051BBF1A-7D13-42F9-A0D8-0C1C253A51D0',
   network: 'testnet',
   hashGenesisBlock:
-    '000000ecfc5e6324a079542221d00e10362bdc894d56500c414060eea8a3ad5a',
+    '000000658f359fc719147ffb3596d189bd646954118b7118d846aa871c509af5',
   port: 18770,
   portRpc: 18766,
   protocol: {
