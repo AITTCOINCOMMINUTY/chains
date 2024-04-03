@@ -3,7 +3,7 @@ import { common } from './base';
 
 export const mainnet: MainNet = {
   ...common,
-  id: 'A1AC99E9-7285-4C81-8FE6-BF298E32E597',
+  id: '051BBF1A-7D13-42F9-A0D8-0C1C253A51D0',
   network: 'mainnet',
   // https://github.com/RavenProject/Ravencoin/blob/master/src/chainparams.cpp#L188
   hashGenesisBlock:
